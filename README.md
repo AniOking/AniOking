@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniOking
+- 👋 Hi, I’m @aniketkr01
 - 👀 I’m interested in exploring new techniques and skills
 - 🌱 I’m currently learning React
 - 📫 Email: aniketkr08903@gmail.com
