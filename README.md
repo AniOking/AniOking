@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a>
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/aniketkr01/aniketkr01/assets/101017129/dc4baa5d-9c77-4247-b9db-c27e5312f10a"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/aniketkr01/aniketkr01/blob/main/linkedinIcon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/aniket-kumar-469465231/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
