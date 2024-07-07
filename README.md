@@ -94,7 +94,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aniketkr01&theme=transparent" alt="GitHub Streak" /></a>
+   <img src="https://streak-stats.demolab.com?user=aniketkr01&theme=transparent" alt="GitHub Streak" />
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -104,14 +104,23 @@
   <br/>
 
   <img alt="Aniket's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aniketkr01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <br />
+  
+  <h3> Leetcode Stats</h3>
+    <a href="https://leetcode.com/u/aniketkr01/">
+      <img src="https://leetcard.jacoblin.cool/aniketkr01?ext=contest&width=1000&font=patrick_hand" alt="Leetcode stats" />
+      <img src="https://leetcode-solved-problems.vercel.app/api?username=aniketkr01&name=Aniket%20Kumar&type=calendar&title=false" alt="Leetcode stats" width="1000px" />
+    </a>
+  <br />
+
+  <h3> GeeksForGeeks Stats</h3>
+    <a href="https://www.geeksforgeeks.org/user/aniketkr08903/">
+      <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=aniketkr08903" alt="Aniket's GFG stats" width="1000px" height="500px" />
+    </a>
+  <br/>
 
 </details>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
