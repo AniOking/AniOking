@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-kumar-469465231/">
-    <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://github.com/aniketkr01/aniketkr01/blob/main/linkedinIcon.svg"/>
+     <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://github.com/aniketkr01/aniketkr01/blob/main/linkedinIcon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://leetcode.com/u/aniketkr01/">
